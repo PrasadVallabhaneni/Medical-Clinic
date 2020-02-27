@@ -1,6 +1,7 @@
 # Medical-Clinic
 Hospital complete website(yet to add some features)
 # How to install:
+[Designed for Chrome Browser only]
 1.copy hospital website folder into htdocs(xampp server)
 2.create health database in phpmyadmin and upload health.sql file
 3.now open localhost:/HospitalWebsite/index.html
